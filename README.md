@@ -28,5 +28,3 @@ To execute the experiment, use the following commands:
 1. **Run the asynchronous version:**
    ```bash
    python3 ParallelASyncHBCoEvolvedProblem.py
-
-   
