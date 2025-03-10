@@ -1,0 +1,346 @@
+Final Pareto Front:
+	Solution:
+		Line 7
+		Variables: [True, True, False, False, False, True, True, True, True, False, False, False, True, True, True, True, True, True, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, False, False, False, False, False, False, False, False, True, False, False, True, True, True, True, True, False, True, True, True, True, True, False, False, False, False, True]
+		Line 22
+		Variables: [False, True, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, False, False, False, True, True, True, True, True, True, True, True, True]
+		Line H10
+		Variables: [True, True, False, True, True, False, False, False, False, True, True, True, False, False, True, True, True, True, True, False, True, True, False, False, False, False, False, False, True, False, True, True, False, False, True, True, True, True, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, True, False, False, False, False, False, True, True, True, False, False, True, False, False, True, True, True, True]
+		Line H12
+		Variables: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, False, False, False, True, True, True, False, False, True, True, True, True, False, False, False, False, True, False, False, False, False, True, False, False, False, False, False, True, True, True, True, False, False, True, True, True, True, True, False, False, False, True, True, True, True, True, True, False, False, True, True, False, False, False, False]
+		Line V15
+		Variables: [True, True, False, True, True, False, True, False, False, True, True, True, True, True, True, True, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, True, False, True, False, True, True, False]
+		Line V17
+		Variables: [True, False, True, True, True, False, False, False, True, True, False, False, False, False, False, False, False, False, True, False, False, False, False, True, True, False, False, True, False, True, False, False, False, False, True, False, False, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+		Objectives: [-74.48930000000003, 50.61916659600696]
+		Green Zone Emissions: [1.7848685  2.36433781 0.        ]
+	Solution:
+		Line 7
+		Variables: [True, True, False, False, False, True, True, True, True, False, False, False, True, True, True, True, True, True, False, True, False, False, False, False, False, False, False, False, False, False, False, True, True, False, False, False, False, False, False, True, False, True, False, False, True, True, True, True, True, False, True, True, True, True, False, False, False, False, True, True]
+		Line 22
+		Variables: [False, True, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, False, False, False, True, True, True, True, True, True, True, True, True]
+		Line H10
+		Variables: [True, True, False, True, True, False, False, False, False, True, True, True, False, False, True, True, True, True, True, False, True, True, False, False, False, False, False, False, True, False, True, True, False, False, True, True, True, True, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, True, False, False, False, False, False, True, True, True, False, False, True, False, False, True, True, True, True]
+		Line H12
+		Variables: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, False, False, False, True, True, True, False, False, True, True, True, True, False, False, False, False, True, False, False, False, False, True, False, False, False, False, False, True, True, True, True, False, False, True, True, True, True, True, False, False, False, True, True, True, True, True, True, False, False, True, True, False, False, False, False]
+		Line V15
+		Variables: [True, True, False, True, True, False, True, False, False, True, True, True, True, True, True, True, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, True, False, True, False, True, True, False]
+		Line V17
+		Variables: [True, False, True, True, True, False, False, False, True, True, False, False, False, False, False, False, False, False, True, False, False, False, False, True, True, False, False, True, False, True, False, False, False, False, True, False, False, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+		Objectives: [-74.58410000000003, 50.63094148046291]
+		Green Zone Emissions: [1.7848685  2.36433781 0.        ]
+	Solution:
+		Line 7
+		Variables: [True, True, False, False, False, True, False, True, True, False, False, True, True, True, False, False, False, False, True, True, True, False, False, False, False, False, True, False, False, False, True, True, True, False, False, False, False, False, False, True, True, True, True, True, True, True, True, True, True, True, True, False, True, True, True, False, False, False, False, True]
+		Line 22
+		Variables: [False, True, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, False, False, False, True, True, True, True, True, True, True, True, True]
+		Line H10
+		Variables: [True, True, False, True, True, False, False, False, False, True, True, True, False, False, True, True, True, True, True, False, True, True, False, False, False, False, False, False, True, False, True, True, False, False, True, True, True, True, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, True, False, False, False, False, False, True, True, True, False, False, True, False, False, True, True, True, True]
+		Line H12
+		Variables: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, False, False, False, True, True, True, False, False, True, True, True, True, False, False, False, False, True, False, False, False, False, True, False, False, False, False, False, True, True, True, True, False, False, True, True, True, True, True, False, False, False, True, True, True, True, True, True, False, False, True, True, False, False, False, False]
+		Line V15
+		Variables: [True, True, False, True, True, False, True, False, False, True, True, True, True, True, True, True, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, True, False, True, False, True, True, False]
+		Line V17
+		Variables: [True, False, True, True, True, False, False, False, True, True, False, False, False, False, False, False, False, False, True, False, False, False, False, True, True, False, False, True, False, True, False, False, False, False, True, False, False, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+		Objectives: [-76.06520000000003, 52.049656507278634]
+		Green Zone Emissions: [2.84383253 2.36433781 0.37643864]
+	Solution:
+		Line 7
+		Variables: [True, True, False, False, False, True, False, True, True, False, False, True, True, True, False, True, False, False, True, True, False, False, False, False, False, False, True, False, False, False, True, True, True, False, False, False, False, False, False, True, True, True, True, True, True, True, True, True, True, True, True, False, True, True, True, False, False, False, False, True]
+		Line 22
+		Variables: [False, True, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, False, False, False, True, True, True, True, True, True, True, True, True]
+		Line H10
+		Variables: [True, True, False, True, True, False, False, False, False, True, True, True, False, False, True, True, True, True, True, False, True, True, False, False, False, False, False, False, True, False, True, True, False, False, True, True, True, True, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, True, False, False, False, False, False, True, True, True, False, False, True, False, False, True, True, True, True]
+		Line H12
+		Variables: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, False, False, False, True, True, True, False, False, True, True, True, True, False, False, False, False, True, False, False, False, False, True, False, False, False, False, False, True, True, True, True, False, False, True, True, True, True, True, False, False, False, True, True, True, True, True, True, False, False, True, True, False, False, False, False]
+		Line V15
+		Variables: [True, True, False, True, True, False, True, False, False, True, True, True, True, True, True, True, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, True, False, True, False, True, True, False]
+		Line V17
+		Variables: [True, False, True, True, True, False, False, False, True, True, False, False, False, False, False, False, False, False, True, False, False, False, False, True, True, False, False, True, False, True, False, False, False, False, True, False, False, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+		Objectives: [-75.89050000000003, 51.80113258745684]
+		Green Zone Emissions: [2.59297074 2.36433781 0.37643864]
+	Solution:
+		Line 7
+		Variables: [True, True, False, False, False, True, True, True, True, False, False, False, True, True, True, False, False, True, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, False, False, False, False, False, False, True, False, True, False, True, True, True, True, True, True, True, True, True, True, True, False, False, False, False, True, True]
+		Line 22
+		Variables: [False, True, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, False, False, False, True, True, True, True, True, True, True, True, True]
+		Line H10
+		Variables: [True, True, False, True, True, False, False, False, False, True, True, True, False, False, True, True, True, True, True, False, True, True, False, False, False, False, False, False, True, False, True, True, False, False, True, True, True, True, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, True, False, False, False, False, False, True, True, True, False, False, True, False, False, True, True, True, True]
+		Line H12
+		Variables: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, False, False, False, True, True, True, False, False, True, True, True, True, False, False, False, False, True, False, False, False, False, True, False, False, False, False, False, True, True, True, True, False, False, True, True, True, True, True, False, False, False, True, True, True, True, True, True, False, False, True, True, False, False, False, False]
+		Line V15
+		Variables: [True, True, False, True, True, False, True, False, False, True, True, True, True, True, True, True, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, True, False, True, False, True, True, False]
+		Line V17
+		Variables: [True, False, True, True, True, False, False, False, True, True, False, False, False, False, False, False, False, False, True, False, False, False, False, True, True, False, False, True, False, True, False, False, False, False, True, False, False, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+		Objectives: [-75.22920000000002, 51.16147025075395]
+		Green Zone Emissions: [2.32286217 2.36433781 0.        ]
+	Solution:
+		Line 7
+		Variables: [True, True, False, False, False, True, True, True, True, False, False, True, True, True, True, False, True, True, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, False, False, False, False, False, False, True, False, True, True, False, True, True, True, True, True, True, True, True, True, False, False, False, False, False, True, True]
+		Line 22
+		Variables: [False, True, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, False, False, False, True, True, True, True, True, True, True, True, True]
+		Line H10
+		Variables: [True, True, False, True, True, False, False, False, False, True, True, True, False, False, True, True, True, True, True, False, True, True, False, False, False, False, False, False, True, False, True, True, False, False, True, True, True, True, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, True, False, False, False, False, False, True, True, True, False, False, True, False, False, True, True, True, True]
+		Line H12
+		Variables: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, False, False, False, True, True, True, False, False, True, True, True, True, False, False, False, False, True, False, False, False, False, True, False, False, False, False, False, True, True, True, True, False, False, True, True, True, True, True, False, False, False, True, True, True, True, True, True, False, False, True, True, False, False, False, False]
+		Line V15
+		Variables: [True, True, False, True, True, False, True, False, False, True, True, True, True, True, True, True, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, True, False, True, False, True, True, False]
+		Line V17
+		Variables: [True, False, True, True, True, False, False, False, True, True, False, False, False, False, False, False, False, False, True, False, False, False, False, True, True, False, False, True, False, True, False, False, False, False, True, False, False, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+		Objectives: [-75.08140000000003, 51.09267027739612]
+		Green Zone Emissions: [2.03573029 2.36433781 0.22487589]
+	Solution:
+		Line 7
+		Variables: [True, True, False, False, False, True, True, True, True, False, False, True, False, True, True, False, False, True, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, False, False, False, True, False, False, True, False, True, False, True, True, True, True, True, True, True, True, True, True, True, False, False, False, False, True, True]
+		Line 22
+		Variables: [False, True, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, False, False, False, True, True, True, True, True, True, True, True, True]
+		Line H10
+		Variables: [True, True, False, True, True, False, False, False, False, True, True, True, False, False, True, True, True, True, True, False, True, True, False, False, False, False, False, False, True, False, True, True, False, False, True, True, True, True, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, True, False, False, False, False, False, True, True, True, False, False, True, False, False, True, True, True, True]
+		Line H12
+		Variables: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, False, False, False, True, True, True, False, False, True, True, True, True, False, False, False, False, True, False, False, False, False, True, False, False, False, False, False, True, True, True, True, False, False, True, True, True, True, True, False, False, False, True, True, True, True, True, True, False, False, True, True, False, False, False, False]
+		Line V15
+		Variables: [True, True, False, True, True, False, True, False, False, True, True, True, True, True, True, True, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, True, False, True, False, True, True, False]
+		Line V17
+		Variables: [True, False, True, True, True, False, False, False, True, True, False, False, False, False, False, False, False, False, True, False, False, False, False, True, True, False, False, True, False, True, False, False, False, False, True, False, False, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+		Objectives: [-75.45400000000002, 51.378808942998496]
+		Green Zone Emissions: [2.53669905 2.36433781 0.        ]
+	Solution:
+		Line 7
+		Variables: [True, True, False, False, False, True, True, True, True, False, False, False, True, True, True, False, False, True, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, False, False, False, True, False, False, True, False, True, False, True, True, True, True, True, True, True, True, True, True, True, False, False, False, False, False, True]
+		Line 22
+		Variables: [False, True, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, False, False, False, True, True, True, True, True, True, True, True, True]
+		Line H10
+		Variables: [True, True, False, True, True, False, False, False, False, True, True, True, False, False, True, True, True, True, True, False, True, True, False, False, False, False, False, False, True, False, True, True, False, False, True, True, True, True, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, True, False, False, False, False, False, True, True, True, False, False, True, False, False, True, True, True, True]
+		Line H12
+		Variables: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, False, False, False, True, True, True, False, False, True, True, True, True, False, False, False, False, True, False, False, False, False, True, False, False, False, False, False, True, True, True, True, False, False, True, True, True, True, True, False, False, False, True, True, True, True, True, True, False, False, True, True, False, False, False, False]
+		Line V15
+		Variables: [True, True, False, True, True, False, True, False, False, True, True, True, True, True, True, True, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, True, False, True, False, True, True, False]
+		Line V17
+		Variables: [True, False, True, True, True, False, False, False, True, True, False, False, False, False, False, False, False, False, True, False, False, False, False, True, True, False, False, True, False, True, False, False, False, False, True, False, False, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+		Objectives: [-75.24140000000003, 51.21429184607828]
+		Green Zone Emissions: [2.32286217 2.36433781 0.        ]
+	Solution:
+		Line 7
+		Variables: [True, True, False, False, False, True, True, True, True, False, False, True, False, True, True, True, False, False, False, True, False, False, False, False, False, False, True, False, False, False, True, True, True, False, False, False, False, False, False, True, False, True, True, True, True, True, True, True, True, True, True, True, True, True, False, False, False, False, True, True]
+		Line 22
+		Variables: [False, True, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, False, False, False, True, True, True, True, True, True, True, True, True]
+		Line H10
+		Variables: [True, True, False, True, True, False, False, False, False, True, True, True, False, False, True, True, True, True, True, False, True, True, False, False, False, False, False, False, True, False, True, True, False, False, True, True, True, True, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, True, False, False, False, False, False, True, True, True, False, False, True, False, False, True, True, True, True]
+		Line H12
+		Variables: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, False, False, False, True, True, True, False, False, True, True, True, True, False, False, False, False, True, False, False, False, False, True, False, False, False, False, False, True, True, True, True, False, False, True, True, True, True, True, False, False, False, True, True, True, True, True, True, False, False, True, True, False, False, False, False]
+		Line V15
+		Variables: [True, True, False, True, True, False, True, False, False, True, True, True, True, True, True, True, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, True, False, True, False, True, True, False]
+		Line V17
+		Variables: [True, False, True, True, True, False, False, False, True, True, False, False, False, False, False, False, False, False, True, False, False, False, False, True, True, False, False, True, False, True, False, False, False, False, True, False, False, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+		Objectives: [-75.72760000000002, 51.61042123331303]
+		Green Zone Emissions: [2.7664248  2.36433781 0.        ]
+	Solution:
+		Line 7
+		Variables: [True, True, False, False, False, True, True, True, True, False, False, False, True, True, True, True, True, True, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, False, False, False, False, False, False, True, False, True, False, False, True, True, True, True, True, True, True, True, True, False, False, False, False, False, True, True]
+		Line 22
+		Variables: [False, True, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, False, False, False, True, True, True, True, True, True, True, True, True]
+		Line H10
+		Variables: [True, True, False, True, True, False, False, False, False, True, True, True, False, False, True, True, True, True, True, False, True, True, False, False, False, False, False, False, True, False, True, True, False, False, True, True, True, True, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, True, False, False, False, False, False, True, True, True, False, False, True, False, False, True, True, True, True]
+		Line H12
+		Variables: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, False, False, False, True, True, True, False, False, True, True, True, True, False, False, False, False, True, False, False, False, False, True, False, False, False, False, False, True, True, True, True, False, False, True, True, True, True, True, False, False, False, True, True, True, True, True, True, False, False, True, True, False, False, False, False]
+		Line V15
+		Variables: [True, True, False, True, True, False, True, False, False, True, True, True, True, True, True, True, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, True, False, True, False, True, True, False]
+		Line V17
+		Variables: [True, False, True, True, True, False, False, False, True, True, False, False, False, False, False, False, False, False, True, False, False, False, False, True, True, False, False, True, False, True, False, False, False, False, True, False, False, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+		Objectives: [-74.75200000000004, 50.83233816386356]
+		Green Zone Emissions: [1.7848685  2.36433781 0.22487589]
+	Solution:
+		Line 7
+		Variables: [True, True, False, False, False, True, False, True, True, False, False, True, True, True, False, True, False, False, False, True, False, False, False, False, False, False, True, False, False, False, True, True, True, False, False, False, False, False, False, True, True, True, True, True, True, True, True, True, True, True, True, False, True, True, False, True, False, False, False, True]
+		Line 22
+		Variables: [False, True, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, False, False, False, True, True, True, True, True, True, True, True, True]
+		Line H10
+		Variables: [True, True, False, True, True, False, False, False, False, True, True, True, False, False, True, True, True, True, True, False, True, True, False, False, False, False, False, False, True, False, True, True, False, False, True, True, True, True, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, True, False, False, False, False, False, True, True, True, False, False, True, False, False, True, True, True, True]
+		Line H12
+		Variables: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, False, False, False, True, True, True, False, False, True, True, True, True, False, False, False, False, True, False, False, False, False, True, False, False, False, False, False, True, True, True, True, False, False, True, True, True, True, True, False, False, False, True, True, True, True, True, True, False, False, True, True, False, False, False, False]
+		Line V15
+		Variables: [True, True, False, True, True, False, True, False, False, True, True, True, True, True, True, True, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, True, False, True, False, True, True, False]
+		Line V17
+		Variables: [True, False, True, True, True, False, False, False, True, True, False, False, False, False, False, False, False, False, True, False, False, False, False, True, True, False, False, True, False, True, False, False, False, False, True, False, False, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+		Objectives: [-75.89890000000003, 51.89400636105264]
+		Green Zone Emissions: [2.67856889 2.36433781 0.37643864]
+	Solution:
+		Line 7
+		Variables: [True, True, False, False, False, True, True, True, True, False, False, True, True, True, True, True, True, True, False, True, False, False, False, False, False, False, False, False, False, False, False, True, True, False, False, False, False, False, False, True, False, True, True, False, True, True, True, True, True, False, True, True, True, False, False, False, False, False, True, True]
+		Line 22
+		Variables: [False, True, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, False, False, False, True, True, True, True, True, True, True, True, True]
+		Line H10
+		Variables: [True, True, False, True, True, False, False, False, False, True, True, True, False, False, True, True, True, True, True, False, True, True, False, False, False, False, False, False, True, False, True, True, False, False, True, True, True, True, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, True, False, False, False, False, False, True, True, True, False, False, True, False, False, True, True, True, True]
+		Line H12
+		Variables: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, False, False, False, True, True, True, False, False, True, True, True, True, False, False, False, False, True, False, False, False, False, True, False, False, False, False, False, True, True, True, True, False, False, True, True, True, True, True, False, False, False, True, True, True, True, True, True, False, False, True, True, False, False, False, False]
+		Line V15
+		Variables: [True, True, False, True, True, False, True, False, False, True, True, True, True, True, True, True, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, True, False, True, False, True, True, False]
+		Line V17
+		Variables: [True, False, True, True, True, False, False, False, True, True, False, False, False, False, False, False, False, False, True, False, False, False, False, True, True, False, False, True, False, True, False, False, False, False, True, False, False, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+		Objectives: [-74.80120000000004, 50.83930180714609]
+		Green Zone Emissions: [1.7848685  2.36433781 0.22487589]
+	Solution:
+		Line 7
+		Variables: [True, True, False, False, False, True, True, True, True, False, False, False, True, True, True, True, True, True, False, True, False, False, False, False, False, False, False, False, False, False, False, True, True, False, False, False, False, False, False, True, True, True, False, False, True, True, True, True, False, False, True, True, True, True, False, False, False, False, True, True]
+		Line 22
+		Variables: [False, True, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, False, False, False, True, True, True, True, True, True, True, True, True]
+		Line H10
+		Variables: [True, True, False, True, True, False, False, False, False, True, True, True, False, False, True, True, True, True, True, False, True, True, False, False, False, False, False, False, True, False, True, True, False, False, True, True, True, True, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, True, False, False, False, False, False, True, True, True, False, False, True, False, False, True, True, True, True]
+		Line H12
+		Variables: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, False, False, False, True, True, True, False, False, True, True, True, True, False, False, False, False, True, False, False, False, False, True, False, False, False, False, False, True, True, True, True, False, False, True, True, True, True, True, False, False, False, True, True, True, True, True, True, False, False, True, True, False, False, False, False]
+		Line V15
+		Variables: [True, True, False, True, True, False, True, False, False, True, True, True, True, True, True, True, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, True, False, True, False, True, True, False]
+		Line V17
+		Variables: [True, False, True, True, True, False, False, False, True, True, False, False, False, False, False, False, False, False, True, False, False, False, False, True, True, False, False, True, False, True, False, False, False, False, True, False, False, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+		Objectives: [-74.54800000000003, 50.62334902505128]
+		Green Zone Emissions: [1.7848685  2.36433781 0.        ]
+	Solution:
+		Line 7
+		Variables: [True, True, False, False, False, True, True, True, True, False, False, False, True, True, True, True, True, True, False, True, False, False, False, False, False, False, False, False, False, False, False, True, True, False, False, False, True, False, False, True, False, True, False, False, True, True, True, True, True, False, True, True, True, True, False, False, False, False, False, True]
+		Line 22
+		Variables: [False, True, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, False, False, False, True, True, True, True, True, True, True, True, True]
+		Line H10
+		Variables: [True, True, False, True, True, False, False, False, False, True, True, True, False, False, True, True, True, True, True, False, True, True, False, False, False, False, False, False, True, False, True, True, False, False, True, True, True, True, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, True, False, False, False, False, False, True, True, True, False, False, True, False, False, True, True, True, True]
+		Line H12
+		Variables: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, False, False, False, True, True, True, False, False, True, True, True, True, False, False, False, False, True, False, False, False, False, True, False, False, False, False, False, True, True, True, True, False, False, True, True, True, True, True, False, False, False, True, True, True, True, True, True, False, False, True, True, False, False, False, False]
+		Line V15
+		Variables: [True, True, False, True, True, False, True, False, False, True, True, True, True, True, True, True, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, True, False, True, False, True, True, False]
+		Line V17
+		Variables: [True, False, True, True, True, False, False, False, True, True, False, False, False, False, False, False, False, False, True, False, False, False, False, True, True, False, False, True, False, True, False, False, False, False, True, False, False, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+		Objectives: [-74.59630000000003, 50.68376307578725]
+		Green Zone Emissions: [1.7848685  2.36433781 0.        ]
+	Solution:
+		Line 7
+		Variables: [True, True, False, False, False, True, True, True, True, False, False, True, False, True, True, True, False, False, False, True, False, False, False, False, False, False, True, False, False, False, True, True, True, False, False, False, True, False, False, True, False, True, True, True, True, True, True, True, True, True, True, True, True, True, False, False, False, False, False, True]
+		Line 22
+		Variables: [False, True, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, False, False, False, True, True, True, True, True, True, True, True, True]
+		Line H10
+		Variables: [True, True, False, True, True, False, False, False, False, True, True, True, False, False, True, True, True, True, True, False, True, True, False, False, False, False, False, False, True, False, True, True, False, False, True, True, True, True, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, True, False, False, False, False, False, True, True, True, False, False, True, False, False, True, True, True, True]
+		Line H12
+		Variables: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, False, False, False, True, True, True, False, False, True, True, True, True, False, False, False, False, True, False, False, False, False, True, False, False, False, False, False, True, True, True, True, False, False, True, True, True, True, True, False, False, False, True, True, True, True, True, True, False, False, True, True, False, False, False, False]
+		Line V15
+		Variables: [True, True, False, True, True, False, True, False, False, True, True, True, True, True, True, True, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, True, False, True, False, True, True, False]
+		Line V17
+		Variables: [True, False, True, True, True, False, False, False, True, True, False, False, False, False, False, False, False, False, True, False, False, False, False, True, True, False, False, True, False, True, False, False, False, False, True, False, False, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+		Objectives: [-75.73980000000003, 51.663242828637365]
+		Green Zone Emissions: [2.7664248  2.36433781 0.        ]
+	Solution:
+		Line 7
+		Variables: [True, True, False, False, False, True, True, True, True, False, False, False, True, True, True, False, False, True, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, False, False, False, True, False, False, True, False, True, False, True, True, True, True, True, True, True, True, True, True, True, False, False, False, False, False, True]
+		Line 22
+		Variables: [False, True, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, False, False, False, True, True, True, True, True, True, True, True, True]
+		Line H10
+		Variables: [True, True, False, True, True, False, False, False, False, True, True, True, False, False, True, True, True, True, True, False, True, True, False, False, False, False, False, False, True, False, True, True, False, False, True, True, True, True, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, True, False, False, False, False, False, True, True, True, False, False, True, False, False, True, True, True, True]
+		Line H12
+		Variables: [True, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, False, False, False, True, True, True, True, False, True, True, True, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, False, False, True, True, True, True, False, False, False, False, True, True, True, True, True, True, True, False, True, True, False, False, False, False]
+		Line V15
+		Variables: [True, True, False, True, True, False, True, False, False, True, True, True, True, True, True, True, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, True, False, True, False, True, True, False]
+		Line V17
+		Variables: [True, False, True, True, True, False, False, False, True, True, False, False, False, False, False, False, False, False, True, False, False, False, False, True, True, False, False, True, False, True, False, False, False, False, True, False, False, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+		Objectives: [-75.56970000000004, 51.41631361977641]
+		Green Zone Emissions: [2.32286217 2.36433781 0.20536216]
+	Solution:
+		Line 7
+		Variables: [True, True, False, False, False, True, True, True, True, False, False, False, True, True, True, False, False, True, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, False, False, False, True, False, False, True, False, True, False, True, True, True, True, True, True, True, True, True, True, True, False, False, False, False, False, True]
+		Line 22
+		Variables: [False, True, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, False, False, False, True, True, True, True, True, True, True, True, True]
+		Line H10
+		Variables: [True, True, False, True, True, False, False, False, False, True, True, True, False, False, True, True, True, True, True, False, True, True, False, False, False, False, False, False, True, False, True, True, False, False, True, True, True, True, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, True, False, False, False, False, False, True, True, True, False, False, True, False, False, True, True, True, True]
+		Line H12
+		Variables: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, False, False, False, True, True, True, False, False, True, True, True, True, False, False, False, False, True, False, False, False, False, True, False, False, False, False, False, True, True, True, True, False, False, True, True, True, True, True, False, False, False, True, True, True, True, True, True, False, False, True, True, False, False, False, False]
+		Line V15
+		Variables: [True, True, False, True, True, True, True, False, False, True, True, True, False, False, True, True, True, False, False, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, True, False, True, False, True, True, True]
+		Line V17
+		Variables: [True, False, True, True, True, False, False, False, True, True, False, False, False, False, False, False, False, False, True, False, False, False, False, True, True, False, False, True, False, True, False, False, False, False, True, False, False, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+		Objectives: [-75.81320000000002, 51.754676548313526]
+		Green Zone Emissions: [2.86085584 2.36433781 0.        ]
+	Solution:
+		Line 7
+		Variables: [True, True, False, False, False, True, True, True, True, False, False, False, True, True, True, False, False, True, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, False, False, False, True, False, False, True, False, True, False, True, True, True, True, True, True, True, True, True, True, True, False, False, False, False, False, True]
+		Line 22
+		Variables: [False, True, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, False, False, False, True, True, True, True, True, True, True, True, True]
+		Line H10
+		Variables: [True, True, False, True, True, False, False, False, False, True, True, True, False, False, True, True, True, True, True, False, True, True, False, False, False, False, False, False, True, False, True, True, False, False, True, True, True, True, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, True, False, False, False, False, False, True, True, True, False, False, True, False, False, True, True, True, True]
+		Line H12
+		Variables: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, False, False, False, True, True, True, False, False, True, True, True, True, False, False, False, False, True, False, False, False, False, True, False, False, False, False, False, True, True, True, True, False, False, True, True, True, True, True, False, False, False, True, True, True, True, True, True, False, False, True, True, False, False, False, False]
+		Line V15
+		Variables: [True, True, False, True, True, True, True, False, False, True, True, True, True, True, False, False, True, False, False, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, True, False, True, True, False, True, False]
+		Line V17
+		Variables: [True, False, True, True, True, False, False, False, True, True, False, False, False, False, False, False, False, False, True, False, False, False, False, True, True, False, False, True, False, True, False, False, False, False, True, False, False, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+		Objectives: [-75.81770000000003, 51.78888686569332]
+		Green Zone Emissions: [2.88904786 2.36433781 0.        ]
+	Solution:
+		Line 7
+		Variables: [True, True, False, False, False, True, True, True, True, False, False, False, True, True, True, False, False, True, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, False, False, False, True, False, False, True, False, True, False, True, True, True, True, True, True, True, True, True, True, True, False, False, False, False, False, True]
+		Line 22
+		Variables: [False, True, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, False, False, False, True, True, True, True, True, True, True, True, True]
+		Line H10
+		Variables: [True, True, False, True, True, False, False, False, False, True, True, True, False, False, True, True, True, True, True, False, True, True, False, False, False, False, False, False, True, False, True, True, False, False, True, True, True, True, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, True, False, False, False, False, False, True, True, True, False, False, True, False, False, True, True, True, True]
+		Line H12
+		Variables: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, False, False, False, True, True, True, False, False, True, True, True, True, False, False, False, False, True, False, False, False, False, True, False, False, False, False, False, True, True, True, True, False, False, True, True, True, True, True, False, False, False, True, True, True, True, True, True, False, False, True, True, False, False, False, False]
+		Line V15
+		Variables: [True, True, False, True, True, True, True, False, False, True, True, True, True, False, False, False, True, False, False, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, True, True, True, True, True, True, True]
+		Line V17
+		Variables: [True, False, True, True, True, False, False, False, True, True, False, False, False, False, False, False, False, False, True, False, False, False, False, True, True, False, False, True, False, True, False, False, False, False, True, False, False, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+		Objectives: [-76.13890000000004, 52.08028012037662]
+		Green Zone Emissions: [3.17617974 2.36433781 0.        ]
+	Solution:
+		Line 7
+		Variables: [True, True, False, False, False, True, True, True, True, False, False, False, True, True, True, False, False, True, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, False, False, False, True, False, False, True, False, True, False, True, True, True, True, True, True, True, True, True, True, True, False, False, False, False, False, True]
+		Line 22
+		Variables: [False, True, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, False, False, False, True, True, True, True, True, True, True, True, True]
+		Line H10
+		Variables: [True, True, False, True, True, False, False, False, False, True, True, True, False, False, True, True, True, True, True, False, True, True, False, False, False, False, False, False, True, False, True, True, False, False, True, True, True, True, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, True, False, False, False, False, False, True, True, True, False, False, True, False, False, True, True, True, True]
+		Line H12
+		Variables: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, False, False, False, True, True, True, False, False, True, True, True, True, False, False, False, False, True, False, False, False, False, True, False, False, False, False, False, True, True, True, True, False, False, True, True, True, True, True, False, False, False, True, True, True, True, True, True, False, False, True, True, False, False, False, False]
+		Line V15
+		Variables: [True, True, False, True, True, True, True, False, False, True, True, True, True, False, False, True, True, False, False, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, True, True, True, True, False, True, False]
+		Line V17
+		Variables: [True, False, True, True, True, False, False, False, True, True, False, False, False, False, False, False, False, False, True, False, False, False, False, True, True, False, False, True, False, True, False, False, False, False, True, False, False, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+		Objectives: [-75.99260000000002, 51.98503837458738]
+		Green Zone Emissions: [3.0905816  2.36433781 0.        ]
+	Solution:
+		Line 7
+		Variables: [True, True, False, False, False, True, True, True, True, False, False, False, True, True, True, False, False, True, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, False, False, False, True, False, False, True, False, True, False, True, True, True, True, True, True, True, True, True, True, True, False, False, False, False, False, True]
+		Line 22
+		Variables: [False, True, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, False, False, False, True, True, True, True, True, True, True, True, True]
+		Line H10
+		Variables: [True, True, False, True, True, False, False, False, False, True, True, True, False, False, True, True, True, True, True, False, True, True, False, False, False, False, False, False, True, False, True, True, False, False, True, True, True, True, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, True, False, False, False, False, False, True, True, True, False, False, True, False, False, True, True, True, True]
+		Line H12
+		Variables: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, False, False, False, True, True, True, False, False, True, True, True, True, False, False, False, False, True, False, False, False, False, True, False, False, False, False, False, True, True, True, True, False, False, True, True, True, True, True, False, False, False, True, True, True, True, True, True, False, False, True, True, False, False, False, False]
+		Line V15
+		Variables: [True, True, False, True, True, False, True, False, False, True, True, True, True, True, True, True, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, True, False, True, False, True, True, False]
+		Line V17
+		Variables: [True, False, True, True, True, False, False, True, True, True, False, False, False, False, False, False, False, False, True, False, False, False, False, True, True, False, False, False, False, True, False, False, False, False, True, False, False, True, True, True, True, True, True, True, True, True, True, True, True, True, False]
+		Objectives: [-75.07740000000003, 51.06103457510553]
+		Green Zone Emissions: [2.17783246 2.36433781 0.        ]
+	Solution:
+		Line 7
+		Variables: [True, True, False, False, False, True, True, True, True, False, False, False, True, True, True, False, False, True, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, False, False, False, True, False, False, True, False, True, False, True, True, True, True, True, True, True, True, True, True, True, False, False, False, False, False, True]
+		Line 22
+		Variables: [False, True, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, False, False, False, True, True, True, True, True, True, True, True, True]
+		Line H10
+		Variables: [True, True, False, True, True, False, False, False, False, True, True, True, False, False, True, True, True, True, True, False, True, True, False, False, False, False, False, False, True, False, True, True, False, False, True, True, True, True, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, True, False, False, False, False, False, True, True, True, False, False, True, False, False, True, True, True, True]
+		Line H12
+		Variables: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, False, False, False, True, True, True, False, False, True, True, True, True, False, False, False, False, True, False, False, False, False, True, False, False, False, False, False, True, True, True, True, False, False, True, True, True, True, True, False, False, False, True, True, True, True, True, True, False, False, True, True, False, False, False, False]
+		Line V15
+		Variables: [True, True, False, True, True, False, True, False, False, True, True, True, True, True, True, True, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, True, False, True, False, True, True, False]
+		Line V17
+		Variables: [True, False, True, True, True, False, False, True, True, True, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, False, False, True, False, True, False, False, False, False, True, False, False, True, True, True, True, True, True, True, True, True, True, True, True, True, False]
+		Objectives: [-75.12370000000003, 51.15264602893269]
+		Green Zone Emissions: [2.17783246 2.44721019 0.        ]
+	Solution:
+		Line 7
+		Variables: [True, True, False, False, False, True, True, True, True, False, False, False, True, True, True, False, False, True, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, False, False, False, True, False, False, True, False, True, False, True, True, True, True, True, True, True, True, True, True, True, False, False, False, False, False, True]
+		Line 22
+		Variables: [False, True, False, True, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, False, False, False, True, True, True, True, True, True, True, True, True]
+		Line H10
+		Variables: [True, True, False, True, True, False, False, False, False, True, True, True, False, False, True, True, True, True, True, False, True, True, False, False, False, False, False, False, True, False, True, True, False, False, True, True, True, True, False, False, False, False, False, False, False, False, True, True, True, True, True, True, False, False, False, False, True, False, False, False, False, False, True, True, True, False, False, True, False, False, True, True, True, True]
+		Line H12
+		Variables: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, False, False, False, True, True, True, False, False, True, True, True, True, False, False, False, False, True, False, False, False, False, True, False, False, False, False, False, True, True, True, True, False, False, True, True, True, True, True, False, False, False, True, True, True, True, True, True, False, False, True, True, False, False, False, False]
+		Line V15
+		Variables: [True, True, False, True, True, False, True, False, False, True, True, True, True, True, True, True, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, True, True, True, True, True, True, False, True, False, True, True, False]
+		Line V17
+		Variables: [False, False, True, True, True, False, True, False, True, True, False, False, False, False, False, False, False, False, True, False, False, False, False, True, True, False, False, True, False, True, False, False, False, False, True, False, False, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+		Objectives: [-74.91530000000003, 51.03743136178089]
+		Green Zone Emissions: [2.10056507 2.36433781 0.        ]
